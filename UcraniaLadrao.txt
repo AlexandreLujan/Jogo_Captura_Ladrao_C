@@ -1,0 +1,42 @@
+Juninho Garrosh
+masculino
+spinner
+cabelo loiro
+curling
+gol
+Ms.Valkiria 
+feminino
+spinner
+cabelo ruivo
+curling
+gol
+Keanu River
+masculino
+spinner
+cabelo loiro
+boxe
+fusca
+Mari Cordoba
+feminino
+tapaolho
+cabelo ruivo
+boxe
+fusca
+Leo Boateng
+masculino
+spinner
+cabelo preto
+curling
+gol
+Bibi Perigosa
+feminino
+batom
+cabelo loiro
+poker
+gol
+Heleninha Housebreaker
+feminino
+batom
+cabelo preto
+poker
+fusca
